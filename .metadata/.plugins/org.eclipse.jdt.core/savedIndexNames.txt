@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Dutu\Desktop\WORK\EMANUEL\2.Profesor Mircea Bodog\Teme\Tema22.10.2024\.metadata\.plugins\org.eclipse.jdt.core
+1288848795.index
+4131310568.index
+1865797976.index
